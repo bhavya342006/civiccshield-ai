@@ -1,0 +1,6 @@
+{
+  "name": "CivicShield AI",
+  "description": "Civic intelligence, road hazard reporting, municipal command center, and volunteer response network powered by OpenStreetMap and AI.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
